@@ -1,0 +1,18 @@
+var spaces = [
+    {
+        "github_username": "itommyyang",
+        "images": [
+            {
+                "url": "http://i.imgur.com/kKMtHA0.jpg",
+                "items": [
+                    "MacBook Air"
+                ]
+            }
+        ],
+        "personal_tags": [
+            "programmer",
+            "avid biker"
+        ],
+        "v2ex_username": "itommy"
+    }
+];
